@@ -11,6 +11,7 @@
 }
 
 body {
+    background: linear-gradient(340deg, rgba(34,193,195,1) 0%, rgba(45,119,253,1) 100%);
     background-color: #f9fafb;
     font-family: 'Open Sans', sans-serif;
     display: flex;
