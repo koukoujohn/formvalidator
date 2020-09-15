@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+/* using variables without sass */
 :root {
     --success-color: #2ecc71;
     --error-color: #e74c3c;
